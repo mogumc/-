@@ -3,8 +3,8 @@
 // @namespace https://ex.mo23.me/
 // @description zh-cn/
 // @license WTFPL
-// @version 1
-// @match https://ex.mo23.me/
+// @version 1.1.0
+// @match *://ex.mo23.me/
 // @match *://exhentai.org/*
 // @match *://e-hentai.org/*
 // @icon https://exhentai.org/favicon.ico
